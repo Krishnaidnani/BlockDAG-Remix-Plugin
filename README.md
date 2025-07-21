@@ -29,6 +29,9 @@ You can use the BlockDAG Explorer Plugin directly in the Remix IDE without any i
 Once connected, you'll see the **BlockDAG Explorer Plugin** appear in the Remix sidebar.
 This plugin is fully client-side and secure — no data is stored or shared.
 
+🎥 **Demo Video:** [Watch the plugin in action](https://vimeo.com/1103213879?share=copy)
+
+
 ## What We've Built
 
 The BlockDAG Explorer Plugin features three core functionalities, all engineered to maximize developer productivity and insight on BlockDAG-based chains:
