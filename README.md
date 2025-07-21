@@ -97,7 +97,7 @@ BlockDAG technology holds immense promise for the future of decentralized applic
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/YOUR_USERNAME/blockdag-explorer-plugin.git
+$ git clone https://github.com/Krishnaidnani/BlockDAG-Remix-Plugin.git
 $ cd blockdag-explorer-plugin
 
 # Install dependencies
