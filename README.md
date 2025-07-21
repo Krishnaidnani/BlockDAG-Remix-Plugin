@@ -13,6 +13,21 @@ Our plugin directly addresses these challenges by providing a comprehensive dash
 BlockDAGs fundamentally change how decentralized applications are built and scaled. Without specialized tools, developers face a steep learning curve and lack the necessary visibility to leverage this architecture effectively. Our plugin bridges this gap, giving developers the "map, compass, and control panel" they need to confidently innovate in the modular blockchain era.
 
 ---
+## 🔌 How to Load the Plugin in Remix
+
+You can use the BlockDAG Explorer Plugin directly in the Remix IDE without any installations:
+
+1. Open [Remix IDE](https://remix.ethereum.org/)
+2. In the left sidebar, click the **Plugin Manager** (🔌 plug icon)
+3. Scroll to the bottom and click **“Connect to a Local Plugin”**
+4. Paste the following URL into the input box:
+
+   ```bash
+   https://block-dag-remix-plugin.vercel.app/
+5. Click **Connect**
+
+Once connected, you'll see the **BlockDAG Explorer Plugin** appear in the Remix sidebar.
+This plugin is fully client-side and secure — no data is stored or shared.
 
 ## What We've Built
 

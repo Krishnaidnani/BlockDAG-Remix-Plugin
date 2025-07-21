@@ -3,9 +3,9 @@
   "displayName": "BlockDAG Visualizer",
   "methods": [],
   "version": "1.0.0-alpha",
-  "url": "https://your-username.github.io/blockdag-plugin/", 
+  "url": "https://block-dag-remix-plugin.vercel.app/", 
   "description": "A plugin to visualize BlockDAG structure and contract deployment flow.",
   "icon": "BlockDAG-remix-logo.svg",
   "location": "sidePanel",
-  "documentation": "https://github.com/your-username/blockdag-plugin#readme"
+  "documentation": ""
 }
