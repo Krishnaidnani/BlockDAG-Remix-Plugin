@@ -1,0 +1,11 @@
+{
+  "name": "blockdag-plugin",
+  "displayName": "BlockDAG Visualizer",
+  "methods": [],
+  "version": "1.0.0-alpha",
+  "url": "https://your-username.github.io/blockdag-plugin/", 
+  "description": "A plugin to visualize BlockDAG structure and contract deployment flow.",
+  "icon": "BlockDAG-remix-logo.svg",
+  "location": "sidePanel",
+  "documentation": "https://github.com/your-username/blockdag-plugin#readme"
+}

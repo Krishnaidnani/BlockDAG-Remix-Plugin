@@ -1,0 +1,12 @@
+#cy {
+  height: 100%;
+  width: 100%;
+}
+/* Adds glow & smooth interaction */
+.cy-node {
+  transition: transform 0.2s ease;
+}
+
+.cy-node:hover {
+  transform: scale(1.05);
+}
