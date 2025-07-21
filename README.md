@@ -13,7 +13,7 @@ Our plugin directly addresses these challenges by providing a comprehensive dash
 BlockDAGs fundamentally change how decentralized applications are built and scaled. Without specialized tools, developers face a steep learning curve and lack the necessary visibility to leverage this architecture effectively. Our plugin bridges this gap, giving developers the "map, compass, and control panel" they need to confidently innovate in the modular blockchain era.
 
 ---
-## 🔌 How to Load the Plugin in Remix
+##  How to Load the Plugin in Remix
 
 You can use the BlockDAG Explorer Plugin directly in the Remix IDE without any installations:
 
